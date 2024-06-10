@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Bhagya, a passionate software developer with a keen interest in leveraging cutting-edge technologies to solve real-world problems. Currently, I am working on a Health Records Management System application that integrates blockchain technology, specifically Ganache, to ensure secure and immutable records. Additionally, I'm integrating Keycloak for robust authentication and authorization, enhancing the overall security and user management of the application.
+Hello! I'm Bhagya, a passionate software developer with a keen interest in leveraging cutting-edge technologies to solve real-world problems. Currently, I am working on a Health Records Management System application that integrates blockchain technology, specifically Ganache, to ensure secure and immutable records. Additionally , I'm integrating Keycloak for robust authentication and authorization, enhancing the overall security and user management of the application.
 
 
 ## 🌐 Socials:
